@@ -13,7 +13,12 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+<<<<<<< HEAD
         System.out.println("main branch");
 
+=======
+        System.out.println("feature branch");
+        System.out.println("main branch ");
+>>>>>>> 4b8b1df (changed in feature br)
     }
 }
